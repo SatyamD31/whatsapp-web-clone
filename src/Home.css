@@ -1,0 +1,12 @@
+.home {
+    background-color: #f8f8f8;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    flex: 0.7;
+}
+
+.home > img {
+    object-fit: contain;
+    height: 300px;
+}
